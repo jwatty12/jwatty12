@@ -23,9 +23,11 @@
     <Party partyId="admin" statusId="PARTY_ENABLED"/>
     <Party partyId="Company" statusId="PARTY_ENABLED"/>
     <Party partyId="DemoEmployee" statusId="PARTY_ENABLED"/>
+    <Party partyId="unradmin92" statusId="PARTY_ENABLED"/>
     <PartyRole partyId="admin" roleTypeId="EMAIL_ADMIN"/>
     <PartyRole partyId="Company" roleTypeId="_NA_"/>
     <PartyRole partyId="DemoEmployee" roleTypeId="EMAIL_ADMIN"/>
+    <PartyRole partyId="unradmin92" roleTypeId="EMAIL_ADMIN"/>
     <PartyStatus partyId="admin" statusId="PARTY_ENABLED" statusDate="2001-01-01 12:00:00.0"/>
     <PartyStatus partyId="Company" statusId="PARTY_ENABLED" statusDate="2001-01-01 12:00:00.0"/>
     <PartyStatus partyId="DemoEmployee" statusId="PARTY_ENABLED" statusDate="2001-01-01 12:00:00.0"/>
